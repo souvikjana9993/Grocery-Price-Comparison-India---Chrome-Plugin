@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Grocery Price Comparison India",
+    "version": "1.0",
+    "description": "Quickly search and compare prices for multiple grocery websites at once!",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": [
+      "activeTab", 
+      "storage"
+    ]
+  }

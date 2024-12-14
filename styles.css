@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+    width: 300px; /* Adjust as needed */
+  }
+  
+  #search-input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  #search-button {
+    padding: 8px 15px;
+    background-color: #4CAF50; /* Example color */
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
